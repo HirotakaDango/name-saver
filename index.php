@@ -71,7 +71,7 @@ $result = $db->query($selectQuery);
           <a class="btn btn-danger" onclick="return confirm('Are you sure?')" href="?delete=<?php echo urlencode($name); ?>">
             <i class="bi bi-trash-fill"></i>
           </a>
-          <a href="#" class="btn btn-secondary fw-bold disabled">(<?php echo $id; ?>) <?php echo $name;?></a>
+          <a href="#" class="btn btn-secondary fw-bold disabled"><?php echo $name; ?></a>
         </div></br>
       <?php }
       } ?>
