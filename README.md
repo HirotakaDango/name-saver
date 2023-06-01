@@ -1,3 +1,3 @@
-# Project Name
+# Name Saver
 
-A concise and catchy description of your project goes here. Highlight the main features and benefits of your project in a clear and engaging manner. Use bullet points to make it scannable and easy to read. 
+The Name Saver application allows you to easily save and manage names in a user-friendly interface. It provides a convenient way to store and retrieve names, making it useful for various purposes such as keeping track of contacts, creating lists, or organizing data.
